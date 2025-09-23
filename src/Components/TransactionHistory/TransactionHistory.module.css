@@ -1,0 +1,18 @@
+.transaction__table {
+    overflow: hidden;
+    /* border: 1px solid #ccc; */
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px 0px rgba(10, 10, 10, 0.2);
+}
+.table-head__tr {
+    background-color: aquamarine;
+}
+.table-head__th {
+    padding: 2px 50px;
+}
+.table-body__td {
+    text-align: center;
+}
+.table-body__tr:nth-child(even) {
+    background-color: beige;   
+}
