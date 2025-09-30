@@ -2,7 +2,7 @@
   "name": "react-3-4-hw",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kamikadze57.github.io/react-3-4-hw2",
+  "homepage": "https://Kamikadze57.github.io/react-3-4-hw2/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
